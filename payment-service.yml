@@ -1,2 +1,6 @@
 payment-service:
   message: Payment Service_Your payment is being processed
+
+simple:
+  test:
+    msg: Hello
